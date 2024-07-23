@@ -1,0 +1,8 @@
+spring:
+  datasource:
+    url: jdbc:mysql://localhost:3306/cloud_vendor?useSSL=false
+    username: root
+    password: root@123
+    driver-class-name:
+      com.mysql.cj.jdbc.Driver
+  jpa.hibernate.ddl_auto: create  # with this command we can create tables by default

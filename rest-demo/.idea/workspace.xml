@@ -1,0 +1,274 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="60761cf0-ec9b-41ac-978f-db6b30276e85" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$/rest-demo">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <task path="$PROJECT_DIR$/rest-demo">
+          <activation />
+        </task>
+        <projects_view>
+          <tree_state>
+            <expand>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="rest-demo" type="f1a62948:ProjectNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="rest-demo" type="f1a62948:ProjectNode" />
+                <item name="Run Configurations" type="7b0102dc:RunConfigurationsNode" />
+              </path>
+            </expand>
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+        <option value="JUnit5 Test Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 8
+}</component>
+  <component name="ProjectId" id="2h1MuNThlhsh05XhMV0cvAZX7TO" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.RestDemoApplication.executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.Build rest-demo.executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.rest-demo [:RestDemoApplication.main()].executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.rest-demo [assemble].executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.rest-demo [build].executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.rest-demo [clean].executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.rest-demo [test].executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.rest-demo [unitTest].executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.CloudVendorRepositoryTest.checkFindByName.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.CloudVendorRepositoryTest.checkFindByNameFailure.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.CloudVendorRepositoryTest.executor&quot;: &quot;Coverage&quot;,
+    &quot;JUnit.CloudVendorServiceImplTest.createCloudVendor.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.CloudVendorServiceImplTest.deleteCloudVendor.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.CloudVendorServiceImplTest.executor&quot;: &quot;Coverage&quot;,
+    &quot;JUnit.CloudVendorServiceImplTest.getAllCloudVendor.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.CloudVendorServiceImplTest.getCloudVendor.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.CloudVendorServiceImplTest.testGetAllCloudVendor.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.CloudVendorServiceImplTest.updateCloudVendor.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary&quot;: &quot;JUnit5&quot;,
+    &quot;com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5&quot;: &quot;&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Program Files/jprofiler14/bin/jprofiler.exe&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;SDKs&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="rest_demoexample.rest_demo.controller" />
+      <recent name="rest_demoexample.rest_demo.service.impl" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.RestDemoApplication">
+    <configuration name="RestDemoApplication" type="Application" factoryName="Application">
+      <option name="ALTERNATIVE_JRE_PATH" value="17" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="MAIN_CLASS_NAME" value="rest_demoexample.rest_demo.RestDemoApplication" />
+      <module name="rest-demo.main" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="rest-demo [test]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$/rest-demo" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="test" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <ExternalSystemDebugServerProcess>true</ExternalSystemDebugServerProcess>
+      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
+      <DebugAllEnabled>false</DebugAllEnabled>
+      <RunAsTest>false</RunAsTest>
+      <method v="2" />
+    </configuration>
+    <configuration name="rest-demo [unitTest]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$/rest-demo" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="unitTest" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <ExternalSystemDebugServerProcess>true</ExternalSystemDebugServerProcess>
+      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
+      <DebugAllEnabled>false</DebugAllEnabled>
+      <RunAsTest>false</RunAsTest>
+      <method v="2" />
+    </configuration>
+    <configuration name="CloudVendorRepositoryTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="rest-demo.test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="rest_demoexample.rest_demo.repository.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="rest_demoexample.rest_demo.repository" />
+      <option name="MAIN_CLASS_NAME" value="rest_demoexample.rest_demo.repository.CloudVendorRepositoryTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CloudVendorServiceImplTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="rest-demo.test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="rest_demoexample.rest_demo.service.impl.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="rest_demoexample.rest_demo.service.impl" />
+      <option name="MAIN_CLASS_NAME" value="rest_demoexample.rest_demo.service.impl.CloudVendorServiceImplTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CloudVendorServiceImplTest.testGetAllCloudVendor" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="rest-demo.test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="rest_demoexample.rest_demo.service.impl.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="rest_demoexample.rest_demo.service.impl" />
+      <option name="MAIN_CLASS_NAME" value="rest_demoexample.rest_demo.service.impl.CloudVendorServiceImplTest" />
+      <option name="METHOD_NAME" value="testGetAllCloudVendor" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JetRunConfigurationType">
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <option name="filePath" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.RestDemoApplication" />
+      <item itemvalue="Gradle.rest-demo [test]" />
+      <item itemvalue="Gradle.rest-demo [unitTest]" />
+      <item itemvalue="JUnit.CloudVendorRepositoryTest" />
+      <item itemvalue="JUnit.CloudVendorServiceImplTest" />
+      <item itemvalue="JUnit.CloudVendorServiceImplTest.testGetAllCloudVendor" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Gradle.rest-demo [unitTest]" />
+        <item itemvalue="Gradle.rest-demo [test]" />
+        <item itemvalue="JUnit.CloudVendorRepositoryTest" />
+        <item itemvalue="JUnit.CloudVendorServiceImplTest" />
+        <item itemvalue="JUnit.CloudVendorServiceImplTest.testGetAllCloudVendor" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="jdk-17.0.10-corretto-17.0.10-4caba194b151-5cd809f4" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="60761cf0-ec9b-41ac-978f-db6b30276e85" name="Changes" comment="" />
+      <created>1716757351214</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1716757351214</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/rest-demo/src/main/java/rest_demoexample/rest_demo/service/CloudVendorService.java</url>
+          <line>11</line>
+          <properties class="rest_demoexample.rest_demo.service.CloudVendorService" method="getAllCloudVendor">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/rest_demo$CloudVendorRepositoryTest.ic" NAME="CloudVendorRepositoryTest Coverage Results" MODIFIED="1716858215292" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>rest_demoexample.rest_demo.repository.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/rest_demo$CloudVendorServiceImplTest.ic" NAME="CloudVendorServiceImplTest Coverage Results" MODIFIED="1716858094614" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>rest_demoexample.rest_demo.service.impl.*</FILTER>
+    </SUITE>
+  </component>
+</project>
